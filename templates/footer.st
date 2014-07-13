@@ -1,0 +1,1 @@
+<div id="footer"><p>&copy; Colin McLear | Powered by <a href="http://github.com/jgm/gitit/tree/master/">gitit</a> | Original work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons License</a>.</p> </div>

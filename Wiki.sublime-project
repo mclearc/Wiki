@@ -1,0 +1,51 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"._*",
+				"*.bak",
+				"*.ico",
+				"*.sample",
+				"*.swf",
+				"*.tar",
+				"*.tgz",
+				"wp-*.php",
+				"*.zip",
+				"*.pdf",
+				"*.doc",
+				"*.docx",
+				"*.0*",
+				"*.*alias"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/Roambot/Dropbox/Work/Notes"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"._*",
+				"*.bak",
+				"*.ico",
+				"*.sample",
+				"*.swf",
+				"*.tar",
+				"*.tgz",
+				"wp-*.php",
+				"*.zip",
+				"*.pdf",
+				"*.doc",
+				"*.docx",
+				"*.0*",
+				"*.*alias"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/Roambot/Dropbox/NotesArchive"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

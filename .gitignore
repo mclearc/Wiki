@@ -64,3 +64,5 @@ Icon
 # Other
 
 *.log
+*.hi
+*.o

@@ -8,12 +8,70 @@ categories: Notes, Definition
 - Articulate the textual puzzle
     + Kant explicitly denies that we can have knowledge of the real essence or
       inner determination of any thing
-        * JL §106 9:143-4; cf. A277/B333, Ref. 2995, 16:607,
-    Ref 2999, 16:609
-
+        * [JL 9:143-4](Quotes/Kant 9_143-4) 9:143-4; cf. A277/B333, Ref. 2995, 16:607, Ref 2999, 16:609
+    + Kant repeatedly says in the MFNS that we have knowledge of the essence of
+      `<matter>`
+        * 4:511; cf. 500, 501, 508-9, 512, 514, 516, 543
+- Outline aims of paper/talks
+    + Kant's conception of physics as a proper science
+        * Scholastic-Aristotelian conception of proper science
+            - definition and essence in proper science
+    + Easy resolution of textual problem isn't available
+        * The MFNS cannot succeed if it only articulates the logical essence of
+          `<matter>`
+    + How Kant can both deny and affirm that we know the non-logical essence of
+      `<matter>`
 
 # The Scholastic-Aristotelian Conception of a Proper Science #
 
+- Features of a proper science
+    + apodictically certain
+    + systematic
+    + explains the derivative in terms of the fundamental
+    
 # Kant on Definition & Construction #
 
-# Definition & Essence in the MFNS
+ - Explain the features that characterize definition in mathematics
+ - Show how empirical concepts lack some but not all of these features
+ - Question: are some features of definition more important than others?
+   + Suggest that the central issue is one of explanation/explanatory ground
+     not just demonstration of objective reality
+
+# Definition & Essence in the MFNS #
+
+- Problem set by Preface usually put in terms of the empirical vs. a priori
+  status of `<matter>`
+  + How can an empirical concept, whose objective validity is contingent, be at
+    the basis of an apodictically certain a priori science?
+  + This ignores the fact that simply substituting an a priori concept doesn't
+    give Kant what he needs
+    * Content of concept must be a priori certain---viz. demonstrable
+    (apodeictic) 
+    * Content must be non-trivial---viz. synthetic
+    * Content must figure as *ground* of explanation rather than fact
+
+## The Problem with `<matter>` ##
+
+- `<matter>` is a *given* concept
+  + no exhaustive analysis
+    * textual problem with 4:472
+  + content is not elective
+- The objective validity of `<matter>` cannot(?) be established a priori
+  + No a priori representation can establish the existence of anything
+    * There is a big debate here concerning whether mathematics
+    establishes the real possibility of its objects a priori, or
+    whether that is done solely via experience. Cf. [friedman1992]() for a
+    negative argument and also the discussion [here](Construction#friedman-construction).
+      - I think [carson1997]() gets it right [by arguing
+        that](skimmer:///Users/Roambot/Dropbox/PDFLibrary/carson1997.pdf?page=21)
+        mathematics does establish the objective validity of its concepts a
+        priori, but that this depends on the a priori proof of the
+        applicability of the categories to the pure intuition of space, thus
+        explaining the possibility of geometry in general.
+      - I want to argue with Carson and Förster against Friedman that
+        mathematical proof does include the a priori proof of the objective
+        validity of its objects.
+          + In contrast to Carson (I think), I want to claim that this
+          is so in virtue of the metaphysical properties of space,
+          which we have a priori knowedge or 'insight' [*Einsicht*]
+          into.

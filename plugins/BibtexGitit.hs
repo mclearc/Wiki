@@ -1,3 +1,5 @@
+{-# LANGUAGE OverloadedStrings #-} 
+
 {-
 Copyright (C) 2012 John Lenz <lenz@math.uic.edu>
 All rights reserved.

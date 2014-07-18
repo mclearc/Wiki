@@ -1,6 +1,7 @@
 ---
 title: The Construction of Matter
 categories: Kant, Definition, MFNS, Notes
+numbersections: 4
 ...
 
 Kant [argues](skimmer:///Users/Roambot/Dropbox/PDFLibrary/kant2004.pdf?page=46)
@@ -193,14 +194,16 @@ forces, all the while agreeing that claims concerning the nature of
 specific configurations of matter (such as would be held by the
 Cartesian mechanist) cannot be justified a priori. 
 
-[^174858]: See the discussion in @carson1997, [506-8](skimmer:///Users/Roambot/Dropbox/PDFLibrary/carson1997.pdf?page=19); cf. my [discussion of Carson's article](carson1997). 
+[^174858]: See the discussion in @carson1997,
+[506-8](skimmer:///Users/Roambot/Dropbox/PDFLibrary/carson1997.pdf?page=19);
+cf. my [discussion of Carson's article](carson1997).
 
 Friedman's general position also seems wrong to me. He
 [argues](skimmer:///Users/Roambot/Dropbox/PDFLibrary/friedman1992.pdf?page=109)
 , that the role of pure intuition is not to prove the real possibility of an
-object, for that can only be done in *empirical* intuition.[^183910]
-Friedman cites A239-A240/B298-299 in support of his position, in
-particular, the claim that 
+object, for that can only be done in *empirical* intuition.[^183910] Friedman
+cites A239-A240/B298-299 (Phenomena & Noumena) in support of his position, in
+particular, the claim that
 
 >all concepts, and with them all principles, even such as are possible a
 >priori, relate to empirical intuitions, that is, to data for a possible
@@ -220,17 +223,18 @@ mathematics.
 >[*Bedeutung*] in appearances (empirical objects).
 
 The only really troublesome claim here is 'the representation of the object
-with which this science occupies itself', for only this claim seems to indicate
-the a priori intuition of space. One thing to say here is that 'the
+with which this science occupies itself', for only this claim seems to
+implicate the a priori intuition of space. One thing to say here is that 'the
 representation' used to represent the object of mathematics here is
-specifically conceptual (i.e. the concept of space) not intuitive.
-Another possibility is that the fully objective scope of mathematical
-knowledge depends on the existence of mind-independent objects rather
-than the 'mere play' that would be characteristic of claims concerning
-the forms of our intuition, with which mathematics is primarily
-concerned.[^185954]
+specifically conceptual (i.e. the concept of space) not intuitive. Another
+possibility is that the fully objective scope of mathematical knowledge depends
+on the existence of mind-independent objects rather than the 'mere play' that
+would be characteristic of claims concerning the forms of our intuition, with
+which mathematics is primarily concerned.[^185954]
 
-[^185954]: Friedman also cites @thompson1972, 338-9; @brittan1978, 64-5; @parsons1983a, 147-9. However, it seems to me that all of these interpretations misconstrue the claim Kant makes that
+[^185954]: Friedman also cites @thompson1972, 338-9; @brittan1978, 64-5;
+@parsons1983a, 147-9. However, it seems to me that all of these interpretations
+misconstrue the claim Kant makes that
 
     >It may look, to be sure, as if the possibility of a triangle could be
     >cognized from its concept in itself (it is certainly independent of
@@ -244,10 +248,22 @@ concerned.[^185954]
     I take it that this passage shows only that mathematics requires pure a
     priori intuition *and* the categories. That is the 'something more'
     required, which Kant makes clear when he says that we need to think such a
-    figure 'solely under those conditions on which all object of experience
+    figure 'solely under those conditions on which all objects of experience
     rest'---viz. the pure forms of experience, pure intuition and the
-    categories. Cf. @[carson1997](), 508. 
+    categories. Cf. [carson1997](), 508. 
 
 [^183910]: @friedman1992, 101. 
 
-However, I find Emily Carson's 
+Emily Carson's suggestion might be the best way to go here. [According to
+Carson](carson1997), construction in a priori intuition *does* yield the
+objective validity of the mathematical concept so constructed. It does not,
+however, prove the real possibility of the object so constructed.
+
+>mathematical concepts earn their objective reality derivatively: in
+establishing that whatever geometry asserts of pure intuition is valid of
+empirical intuition, the objective reality of geometrical concepts which are
+constructible in pure intuition is thereby also established.[^104832]
+
+[^104832]: @carson1992,
+[508](skimmer:///Users/Roambot/Dropbox/PDFLibrary/carson1997.pdf?page=21).
+

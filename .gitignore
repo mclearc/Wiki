@@ -66,3 +66,4 @@ Icon
 *.log
 *.hi
 *.o
+/wikidata

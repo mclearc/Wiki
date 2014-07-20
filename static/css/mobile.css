@@ -1,9 +1,21 @@
-@import url("screen.css"); /* default gitit screen styles */
-@import url("hk-pyg.css"); /* for syntax highlighting */
 
-/*Custom styles*/
+/*Get rid of unnecessary cruft*/
+#userbox  {display: none;}
+img {display: none;}
+
+.doc3 {margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    max-width: 50%;}
+
+#content {background-color: white;}
 
 body {
+  top: 0;
+  margin: 3%;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
@@ -11,11 +23,12 @@ body {
   font-weight: 450;
   /*color: rgb(51, 51, 51);*/
   color: black;
+  max-width: 50%
 }
 
 p, pre, code {
     line-height: 1.388;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
     font-weight: 400;
 }
 
@@ -25,7 +38,7 @@ ul {
 }
 
 ul, ol {
-  margin-top: 15px;
+  margin-top: 5px;
   margin-bottom: 15px;
   text-align: left;
 }code {
@@ -60,7 +73,7 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small {
   /*color: #dfdfdf;*/ /*grey*/
 }
 
-/*.pageTitle {
+.pageTitle {
     border: none;
 }
 
@@ -119,9 +132,7 @@ table {
 
 .even {
     background: white;
-}*/
-
-/*Tables*/
+}
 
 th,
 td {
@@ -144,19 +155,12 @@ td:hover {
 #logo { overflow: hidden; 
         text-align: center;
         padding-top: 50px;
-
-
       }
 
-img {
-        border : 1px black solid ;
-        display: inline;
-        position: relative;
-        max-width: 98%;
+#categoryList {text-align: center; padding: 0em; margin: 0em 0 0 0; border: 1px dashed #ccc; }
+#categoryList ul > li { display: inline-block; padding: .5em;}
 
-      }
-
-/*Links*/
+#footer {font-size: 10px;}
 
 a:link { text-decoration: none; color: blue; }
 a:visited { text-decoration: none; color: blue; }
@@ -187,5 +191,24 @@ h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited,
 h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
         color: black; text-decoration: none; }
 
-ul.tabs li a {color:black; padding: 3px 8px; }
+ul.tabs li {
+  display: inline; 
+  line-height: 3em;
+  padding-right: 10px; 
+  text-align: left;
+  padding: 5px 15px 5px 15px;
+          border: 1px solid @black;
+          /*border-right: 1px solid @black;
+          border-left: 1px solid @black;
+          border-top: 1px solid @black;
+          border-bottom: 1px solid @black;*/
+          .border-radius(15px);
+          color: black;
+}
+ul.tabs a {color:black; }
 ul.tabs a:hover {color:#c33; text-decoration: none; border-bottom:none;}
+ul.tabs li {border-bottom: 2px solid black;}
+ul.tabs li.selected { border-bottom: 2px dashed black; }
+
+
+

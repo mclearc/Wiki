@@ -13,7 +13,13 @@
       $if(feed)$
       <li><a href="$base$/_feed/" type="application/atom+xml" rel="alternate" title="ATOM Feed">Atom feed</a> <img alt="feed icon" src="$base$/img/icons/feed.png"/></li>
       $endif$
-    <li><a href="$base$/Help">Help</a></li>
+      <noscript>
+        <a href="$base$/_login">Login</a>
+        <a href="$base$/_logout">Logout</a>
+      </noscript>
+      <li><a id="loginlink" class="login" href="$base$/_login">Login / Get an account</a></li>
+      <li><a id="logoutlink" class="login" href="$base$/_logout">Logout <span id="logged_in_user"></span></a></li>
+      <li><a href="$base$/Help">Help</a></li>
     </ul>
     <form action="$base$/_search" method="get" id="searchform">
      <input type="text" name="patterns" id="patterns"/>

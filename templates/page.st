@@ -38,7 +38,6 @@
             $markuphelp()$
           $endif$
         </div>
-    </div>
     $javascripts$
     $expire()$
     $getuser()$

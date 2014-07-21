@@ -9,7 +9,7 @@ img {display: none;}
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    max-width: 50%;}
+    max-width: 100%;}
 
 #content {background-color: white;}
 
@@ -23,7 +23,6 @@ body {
   font-weight: 450;
   /*color: rgb(51, 51, 51);*/
   color: black;
-  max-width: 50%
 }
 
 p, pre, code {
